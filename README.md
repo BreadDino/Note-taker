@@ -13,7 +13,7 @@
 #### I learned how to use node and heroku to deploy a webpage that can store data of the user
 
 -GitHub Link
-#### https://github.com/BreadDino/team-profile-page-generator
+#### https://github.com/BreadDino/Note-taker
 
 -Live Link
 #### https://note-taker-applications.herokuapp.com/notes
