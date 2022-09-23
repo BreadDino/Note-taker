@@ -16,4 +16,4 @@
 #### https://github.com/BreadDino/Note-taker
 
 -Live Link
-#### https://note-taker-applications.herokuapp.com/notes
+#### https://note-taker-applications.herokuapp.com/api
